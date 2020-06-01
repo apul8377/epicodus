@@ -1,0 +1,3 @@
+#this is __markdown__, the programming language used to make **Read Mes**
+#this is to further practice with github, pushing to my __epicodus__ repo
+
